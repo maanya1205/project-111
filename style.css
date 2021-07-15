@@ -1,0 +1,20 @@
+.text-images-and-result{
+    background-color: lightseagreen;
+    margin-bottom: 5px;
+}
+.text-images-and-result img{
+    width: 300px;
+    height: 250px;
+}
+.text-images-and-result h5{
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text-images-and-result h4{
+    color: purple;
+    text-align: center;
+    font-size: 20px;
+}
